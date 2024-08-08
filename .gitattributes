@@ -1,0 +1,1 @@
+deli_stavb_izkaznice.parquet filter=lfs diff=lfs merge=lfs -text
